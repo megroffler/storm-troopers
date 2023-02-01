@@ -26,8 +26,8 @@ This project examines flight data in conjunction with weather events to explore 
 
 ### Data
 1. Bureau of Transportation Statistics (2021 Flight Data)
-- Visit the above page and choose the desired fields for monthly flight data. Then download as monthly csv files
-- The raw data was 52 columns and over 6 million rows when merged
+	- Visit the above page and choose the desired fields for monthly flight data. Then download as monthly csv files
+	- The raw data was 52 columns and over 6 million rows when merged
 2. Weather Data from Kaggle
 - Downloaded the above dataset, which included and airport code, which was crucial in our table joining efforts
 - Size of dataset
