@@ -3,7 +3,7 @@
 
 
 ![Flight_Routes_2021](https://i.imgur.com/H0PuJh2.png)
-**All US Flight Routes of 2021**
+*All US Flight Routes of 2021*
 
 
 This repository contains the Capstone Project for Dev10 Cohort 40 Group Storm Troopers. The project team consists of: Stephen Duval, David Perhai, Meghan Roffler, and Talia Willcott. 
