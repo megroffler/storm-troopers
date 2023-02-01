@@ -17,7 +17,7 @@ In the United States in 2021, there were approximately 6.2 million passenger fli
 <!-- /TOC -->
 
 ### Concept Map
-![this image will not be displayed](https://files.smallpdf.com/files/b2694a0e2e404886b899fb3f1bbc37bf-0001.jpg?name=Flights_2021_ConceptMap.jpg)
+![this image will not be displayed]("..\Flights_2021_ConceptMap.jpg")
 
 ### Introduction
 This project examines flight data in conjunction with weather events to explore patterns in flight cancellations and delays. The main dataset used is from the Bureau of Transportation Statistics and tracks passenger flights across the United States. Our second dataset is from Kaggle and includes weather reports taken from 2,071 airport-based weather stations across the United States. We decided to only look at the data from 2021 for both datasets due to the magnitude of data. This project explores how weather affects the efficiency of flights by examining the timeliness and consistency of the flights based on the current state of the weather. As a stretch goal, we hoped to use machine learning to develop an app-like program that could learn from our merged data in order to determine whether a flight would be canceled or not. As a super stretch goal, we also wanted it to predict how long the delay might be if the flight were to not be canceled. Overall, our results show that deviations from the flight schedule are not efficiently predicted by weather at time of flight.
