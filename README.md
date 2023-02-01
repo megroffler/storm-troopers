@@ -1,6 +1,8 @@
 # **Storm Troopers Capstone**
 ### Flight cancellation and delay prediction model using US flights and weather events
 
+
+![Flight_Routes_2021](https://i.imgur.com/H0PuJh2.png)
 This repository contains the Capstone Project for Dev10 Cohort 40 Group Storm Troopers. The project team consists of: Stephen Duval, David Perhai, Meghan Roffler, and Talia Willcott. 
 
 In the United States in 2021, there were approximately 6.2 million passenger flights, with approximately 1 million flights delayed and 100k flights cancelled. Flight delays and cancellations are frustrating for both travelers and airlines. Although there are many factors that can affect a timely departure (such as busy travel seasons, airline/airport issues, or flight systems issues), this project chooses to focus on weather events and weather-caused flight delays/cancellations. A deeper understanding of how flight schedules are affected by weather has the potential to help both airline operators minimize losses and passengers maximize ease of travel. This project will examine 2021 passenger flight data and 2021 weather events in order to find existing patterns and create a machine learning model to predict whether or not a flight will be delayed or cancelled. This readme is broken down as follows:
