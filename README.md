@@ -28,7 +28,7 @@ This project examines flight data in conjunction with weather events to explore 
 	- The raw data was 52 columns and over 6 million rows
 2. [Weather Data from Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events)
 	- Download the above dataset, which includes an airport code
-	- SIZE OF DATASET??
+	- The raw data was 15 columns and over 1.2 million rows
 3. Current flight data from [FlightRadar24](https://www.flightradar24.com/42.85,-93.35/6)
 	- Acquired through an API key
 	- Needed to create an account with RapidAPI, them query
