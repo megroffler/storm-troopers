@@ -5,4 +5,4 @@ This is the repository for Dev10 (Cohort 40) Group 4's Capstone Project. Project
 
 
 
-![this image will not be displayed](..\..\Flights_2021_ConceptMap.jpg)
+![this image will not be displayed](https://files.smallpdf.com/files/b2694a0e2e404886b899fb3f1bbc37bf-0001.jpg?name=Flights_2021_ConceptMap.jpg)
