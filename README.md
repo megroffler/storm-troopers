@@ -6,8 +6,8 @@ This is the repository for Dev10 (Cohort 40) Group 4's Capstone Project. Project
 <!-- TOC -->
 
 - [Markdown Navigation](#markdown-navigation)
-    - [Concept Map](#Conept Map)
-    - [Project Description](#Project Description)
+    - [Concept Map](#Concept-Map)
+    - [Project Description](#Project-Description)
 
 <!-- /TOC -->
 
