@@ -5,7 +5,7 @@ This is the repository for the Dev10 Cohort 40 Group Capstone Project. The proje
 
 <!-- TOC -->
 
-- **Markdown Navigation**
+### Markdown Navigation
     - [Concept Map](#Concept-Map)
     - [Project Description](#Project-Description)
     - [Repository Contents](#Repository-Contents)
