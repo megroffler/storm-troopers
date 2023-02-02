@@ -19,6 +19,8 @@ In the United States in 2021, there were approximately 6.2 million passenger fli
 - [Repository Contents](#Repository-Contents)
 - [PowerBI Dashboard](#PowerBI_Dashboard)
 - [Exploratory Data Analysis](#Some_EDA)
+- [Conclusions](#Conclusions)
+- [Next Steps](#Next_Steps)
 
 <!-- /TOC -->
 
@@ -70,7 +72,6 @@ Although our PowerBI Reports can be found as .pbix files in our repository, our 
 
 
 ### Some EDA
-Here are some interesting findings from our data:
 - In total, there were considerably more early flights than delayed/canceled
 ![vis 1](https://i.imgur.com/wd0c5ql.png)
 - Mosty flights center around an arrival between 15 minutes early to 15 minutes late
@@ -83,6 +84,18 @@ Here are some interesting findings from our data:
 ![vis 6](https://i.imgur.com/DDydylM.png)
 - Rain was the most common weather event.
 ![vis 8](https://i.imgur.com/8qrvLe1.png)
+
+
+### Conclusions
+We find that weather seems to be an important factor in making flight predictions. Specifically, when there is a weather event in both the origin and destination, the flight is 5.5 times more likely to be cancelled than when there is no weather event. Furthermore, having a weather event in our prediction made our model 3.5 times more accurate in correctly predicting whether a flight is cancelled. The additional features that were important in our prediction models are scheduled elapsed time and distance of flight. 
+
+
+### Next Steps 
+- Gather data for more years than 2021. We chose to focus on 2021 due to the size of the datasets, but that leaves our models more susceptible to outliers and shows some effects of covid, especially early in 2021.
+- Fine tune the machine learning models to predict the length of the delay
+- Build up our own database using the flight radar api and a weather api in real time
+- Create an app or widget to make predictions based on the current scenarios unfolding around the country
+- Look in to other factors that may affect delays and cancellations beyond the weather
 
 
 
