@@ -12,15 +12,15 @@ In the United States in 2021, there were approximately 6.2 million passenger fli
 
 ### Markdown Navigation
 <!-- TOC -->
-- [Concept Map](#Concept-Map)
+- [Concept Map](#ConceptMap)
 - [Introduction](#Introduction)
 - [Data Details](#Data)
-- [Project Questions](#Project_Questions)
+- [Project Questions](#Project-Questions)
 - [Repository Contents](#Repository-Contents)
 - [PowerBI Dashboard](#PowerBI_Dashboard)
-- [Exploratory Data Analysis](#Some_EDA)
+- [Exploratory Data Analysis](#Some-EDA)
 - [Conclusions](#Conclusions)
-- [Next Steps](#Next_Steps)
+- [Next Steps](#Next-Steps)
 
 <!-- /TOC -->
 
